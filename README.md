@@ -10,7 +10,7 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8685b63b-9c7e-4bbe-afd2-61543196fc55" width="300" alt="eye-logo" />
+  <img src="https://github.com/user-attachments/assets/8685b63b-9c7e-4bbe-afd2-61543196fc55" width="350" alt="eye-logo" />
 </p>
 
 ### 🌐 Networking & Protocols  
