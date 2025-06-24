@@ -9,9 +9,9 @@
 <h3 align="center">I’m passionate about building, breaking, and securing systems — from web development to ethical hacking.</h3>
 
 ---
-
-![hacker](https://github.com/user-attachments/assets/8685b63b-9c7e-4bbe-afd2-61543196fc55)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8685b63b-9c7e-4bbe-afd2-61543196fc55" width="300" alt="eye-logo" />
+</p>
 
 ### 🌐 Networking & Protocols  
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
