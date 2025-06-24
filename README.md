@@ -15,11 +15,12 @@ I’m passionate about building, breaking, and securing systems — from web dev
 
 ## 🛠️ Tech Stack & Tools
 
-### 🌐 Web Development  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+### 🌐 Networking & Protocols  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-5B7F8B?style=flat&logo=nmap&logoColor=white)
+![Netcat](https://img.shields.io/badge/Netcat-2C3539?style=flat&logo=gnu-bash&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-005FCC?style=flat&logo=cloudflare&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-4B8BBE?style=flat&logo=proxmox&logoColor=white)
 
 ### 💻 Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -33,9 +34,8 @@ I’m passionate about building, breaking, and securing systems — from web dev
 
 ### 🔐 Security Tools  
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7139?style=flat&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-5B7F8B?style=flat&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2E2E2E?style=flat&logo=metasploit&logoColor=white)
+![Dirbuster](https://img.shields.io/badge/Dirbuster-FF4500?style=flat&logo=apache&logoColor=white)
 
 ### 🗃️ Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -72,7 +72,7 @@ Check out my pinned repositories and write-ups *(coming soon)*
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alwanalbari&theme=tokyonight&no-frame=true&column=7&margin-w=5" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Alwanxz&theme=tokyonight&no-frame=true&column=7&margin-w=5" alt="Trophies"/>
 </p>
 
 <p align="center">
