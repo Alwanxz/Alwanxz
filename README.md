@@ -76,7 +76,7 @@ Check out my pinned repositories and write-ups *(coming soon)*
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alwanalbari&theme=rogue" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alwanxz&theme=rogue" alt="activity graph"/>
 </p>
 
 <!-- Optional: Wakatime (if you use it)
