@@ -1,4 +1,10 @@
-<h1 align="center">👋 Hi, I'm Alwan Albari</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alwan!;" />
+</h1>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+
 <h3 align="center">🎓 Informatics Student | 🛡️ Cybersecurity Enthusiast | 🐞 Bug Hunter</h3>
 <h3 align="center">I’m passionate about building, breaking, and securing systems — from web development to ethical hacking.</h3>
 
