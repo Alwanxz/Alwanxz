@@ -15,6 +15,8 @@ I’m passionate about building, breaking, and securing systems — from web dev
 
 ## 🛠️ Tech Stack & Tools
 
+![Hek](https://images.app.goo.gl/qYBfghJjsQegsFNRA)
+
 ### 🌐 Networking & Protocols  
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-5B7F8B?style=flat&logo=nmap&logoColor=white)
