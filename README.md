@@ -1,14 +1,5 @@
 <h1 align="center">👋 Hi, I'm Alwan Albari</h1>
 <h3 align="center">🎓 Informatics Student | 🛡️ Cybersecurity Enthusiast | 🐞 Bug Hunter</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&multiline=true&width=600&lines=Passionate+Builder+%7C+Breaker+%7C+Fixer;Networking+%2B+Ethical+Hacking+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
----
-
-## 🧠 About Me
-<h3 align="center">🎓 Informatics student | 🛡️ Cybersecurity enthusiast | 🐞 Bug Hunter </h3>
 <h3 align="center">I’m passionate about building, breaking, and securing systems — from web development to ethical hacking.</h3>
 
 ---
