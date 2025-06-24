@@ -1,16 +1,26 @@
-## Hello I'm Alwan 👋
+# 👋 Hi, I'm Alwan Albari
 
-<!--
-**Alwanxz/Alwanxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an Informatics student passionate about tech, building useful things, and learning continuously.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack & Tools
+- 🌐 Web Development: HTML, CSS, JavaScript, React
+- 💻 Programming: Python, Java, C++
+- 🗃️ Database: MySQL, MongoDB
+- ⚙️ Tools: Git, VS Code, Figma, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📘 Currently Learning
+- 🔭 Backend development with Node.js & Express
+- ☁️ Cloud basics & deployment (Vercel, Netlify)
+- 🤖 Exploring basic machine learning with Python
+
+## 💼 Projects
+Check out some of my pinned repositories or visit my [portfolio](https://your-portfolio-link.com) *(ganti dengan portofoliomu jika ada)*.
+
+## 📫 Let's Connect
+- 💌 Email: alwan@example.com
+- 💼 LinkedIn: [linkedin.com/in/alwanalbari](https://linkedin.com/in/alwanalbari)
+- 🌐 Website: [alwan.dev](https://alwan.dev) *(optional)
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
