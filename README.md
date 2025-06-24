@@ -10,7 +10,7 @@
 
 ---
 <p align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijRMSv9EpAsWacFxrCVU3HzjP_Tf3E_gw7wvaPYO5MivK7xTn6SSOQrEOy3H6fMsFwmBmU12fZOyL23RntAwGpPgJYrRLC90gCMpB9UKvdVoUidw-s13AWwAOSxCTDAPob6jALRMpzrOnMXidH4XJsx6r2OjYQy4nVYBe5RaZuaOymzhIaN7LnuQZn/s800/eye.gif" width="300" alt="eye-logo" />
+  <img src="https://www.flaticon.com/free-animated-icon/hacker_17489660" width="300" alt="eye-logo" />
 </p>
 
 ### 🌐 Networking & Protocols  
