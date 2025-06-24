@@ -7,13 +7,51 @@
 
 ---
 
-## 🧰 Tech Stack & Tools
-- 🌐 **Web Dev**: HTML, CSS, JavaScript, React  
-- 💻 **Languages**: Python, Java, C++  
-- 🐧 **OS**: Linux (Kali, Ubuntu), Windows  
-- 🔐 **Security Tools**: Burp Suite, Nmap, Wireshark, Metasploit  
-- 🗃️ **Database**: MySQL, MongoDB  
-- ⚙️ **Others**: Git, VS Code, Figma
+## 🧠 About Me
+🎓 Informatics student | 🛡️ Cybersecurity enthusiast | 🐞 Bug Hunter  
+I’m passionate about building, breaking, and securing systems — from web development to ethical hacking.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🌐 Web Development  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+### 💻 Programming Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+### 🐧 Operating Systems  
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
+### 🔐 Security Tools  
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF7139?style=flat&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-5B7F8B?style=flat&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2E2E2E?style=flat&logo=metasploit&logoColor=white)
+
+### 🗃️ Databases  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### ⚙️ Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+---
+
+## 🧪 Cyber & Bug Hunting Activity
+- 🔍 Active on **HackerOne** & **Bugcrowd**  
+- ✅ Reported and triaged bugs on **private programs**  
+- 📚 Deep diving into **OWASP Top 10** & **CVE exploits**
 
 ---
 
@@ -25,31 +63,32 @@
 
 ---
 
-## 🧪 Cyber & Bug Hunting Activity
-- 🔍 Active on **HackerOne** & **Bugcrowd**  
-- ✅ Reported and triaged bugs on **private programs**  
-- 📚 Deep diving into **OWASP Top 10** & **CVE exploits**
-
----
-
 ## 📌 Projects
 Check out my pinned repositories and write-ups *(coming soon)*  
 🎯 Focused on CTF tools, security automation, and fullstack mini-projects
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alwanalbari&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alwanalbari&theme=radical" width="48%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=alwanalbari&theme=tokyonight&no-frame=true&column=7&margin-w=5" alt="Trophies"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwanalbari&layout=compact&theme=radical" width="40%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alwanalbari&theme=rogue" alt="activity graph"/>
 </p>
+
+<!-- Optional: Wakatime (if you use it)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alwanalbari&theme=tokyonight" />
+</p>
+-->
 
 ---
 
 ## 📫 Let's Connect
+
 <p align="left">
   <a href="mailto:alwanalbari037@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="email"/></a>
   <a href="https://linkedin.com/in/alwanalbari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/></a>
