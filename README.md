@@ -8,7 +8,7 @@
 ---
 
 ## 🧠 About Me
-<h1 align="center">🎓 Informatics student | 🛡️ Cybersecurity enthusiast | 🐞 Bug Hunter </h1>
+<h3 align="center">🎓 Informatics student | 🛡️ Cybersecurity enthusiast | 🐞 Bug Hunter </h3>
 <h3 align="center">I’m passionate about building, breaking, and securing systems — from web development to ethical hacking.</h3>
 
 ---
