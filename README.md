@@ -9,9 +9,7 @@
 <h3 align="center">I’m passionate about building, breaking, and securing systems — from web development to ethical hacking.</h3>
 
 ---
-<p align="center">
-  <img src="https://www.flaticon.com/free-animated-icon/hacker_17489660" width="300" alt="eye-logo" />
-</p>
+![hacker](https://github.com/user-attachments/assets/bb7fc7ac-99b3-48e3-a19c-1fa8c6679aa5)
 
 ### 🌐 Networking & Protocols  
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
