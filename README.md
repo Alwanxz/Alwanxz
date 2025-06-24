@@ -3,8 +3,9 @@
 <h3 align="center">I’m passionate about building, breaking, and securing systems — from web development to ethical hacking.</h3>
 
 ---
-
-![Hek](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijRMSv9EpAsWacFxrCVU3HzjP_Tf3E_gw7wvaPYO5MivK7xTn6SSOQrEOy3H6fMsFwmBmU12fZOyL23RntAwGpPgJYrRLC90gCMpB9UKvdVoUidw-s13AWwAOSxCTDAPob6jALRMpzrOnMXidH4XJsx6r2OjYQy4nVYBe5RaZuaOymzhIaN7LnuQZn/s800/eye.gif)
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijRMSv9EpAsWacFxrCVU3HzjP_Tf3E_gw7wvaPYO5MivK7xTn6SSOQrEOy3H6fMsFwmBmU12fZOyL23RntAwGpPgJYrRLC90gCMpB9UKvdVoUidw-s13AWwAOSxCTDAPob6jALRMpzrOnMXidH4XJsx6r2OjYQy4nVYBe5RaZuaOymzhIaN7LnuQZn/s800/eye.gif" width="300" alt="eye-logo" />
+</p>
 
 ### 🌐 Networking & Protocols  
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
